@@ -35,4 +35,8 @@ This repository contains solutions to various LeetCode problems in java.
 | [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taiba-wahab/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/taiba-wahab/LeetCode/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->

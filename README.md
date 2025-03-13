@@ -6,6 +6,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -18,9 +19,14 @@ This repository contains solutions to various LeetCode problems in java.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

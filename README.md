@@ -12,6 +12,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/taiba-wahab/LeetCode/tree/master/0283-move-zeroes) |
@@ -95,4 +96,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

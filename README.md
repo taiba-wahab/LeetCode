@@ -49,6 +49,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/taiba-wahab/LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3379-score-of-a-string) |

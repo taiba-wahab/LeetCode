@@ -11,6 +11,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Enumeration
@@ -114,4 +116,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

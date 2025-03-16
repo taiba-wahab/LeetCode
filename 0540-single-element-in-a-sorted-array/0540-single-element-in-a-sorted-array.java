@@ -17,7 +17,7 @@ class Solution {
     public int singleNonDuplicate(int[] nums) {
         int size = nums.length;
         int answer = 0;
-        for(int i = 0; i < size; i= i + 2) {
+        for(int i = 0; i < size; i = i + 2) {
             if(search(nums, i + 1, size - 1, nums[i]) == 0) {
                 answer = nums[i];
                 break;

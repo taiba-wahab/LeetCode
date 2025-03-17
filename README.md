@@ -21,6 +21,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1580-shuffle-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |

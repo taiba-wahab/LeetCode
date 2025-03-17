@@ -1,18 +1,13 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int max = Arrays.stream(nums).max().getAsInt();
+        int [] frequency = new int [max + 1];
         for(int i = 0; i < nums.length; i++) {
-            if(map.containsKey(nums[i]) == true) {
-                map.replace(nums[i], map.get(nums[i]) + 1);
-            }
-            else {
-                map.put(nums[i], 1);
-            }
+            frequency[nums[i]] += 1;
         }
-        for(Integer key : map.keySet()) {
-            if(map.get(key) % 2 != 0) {
-                return false;
-            }
+        for(int i = 0; i < frequency.length; i++) {
+            if(frequency[i] % 2 != 0)
+            return false;
         }
         return true;
     }

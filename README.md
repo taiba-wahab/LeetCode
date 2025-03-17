@@ -24,6 +24,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/taiba-wahab/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -31,6 +32,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
+| [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/taiba-wahab/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## String
 |  |

@@ -12,6 +12,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
@@ -125,6 +126,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -134,4 +136,5 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

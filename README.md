@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/taiba-wahab/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/taiba-wahab/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table

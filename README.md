@@ -19,6 +19,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/taiba-wahab/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -35,6 +36,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
@@ -48,6 +50,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0016-3sum-closest](https://github.com/taiba-wahab/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -83,6 +86,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |

@@ -71,6 +71,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0283-move-zeroes](https://github.com/taiba-wahab/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0838-design-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |

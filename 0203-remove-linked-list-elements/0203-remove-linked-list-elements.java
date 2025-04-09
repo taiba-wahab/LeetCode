@@ -10,9 +10,12 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
+        if(head == null) return null;
+        while(head != null && head.val == val) {
+            head = head.next;
+        }
         ListNode temp = head;
-        if(head == null) return head;
-        while(temp.next != null) {
+        while(temp != null && temp.next != null) {
             if(temp.next.val == val) {
                 ListNode ptr = temp.next;
                 temp.next = ptr.next;
@@ -22,9 +25,8 @@ class Solution {
                 temp = temp.next;
             }
         }
-        if(head != null && head.val == val) {
-            head = head.next;
-        }
+        // if(head != null && head.val == val) {
+        //     head = head.next;
         return head;
     }
 }

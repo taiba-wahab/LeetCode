@@ -22,7 +22,7 @@ class Solution {
                 temp = temp.next;
             }
         }
-        while(head != null && head.val == val) {
+        if(head != null && head.val == val) {
             head = head.next;
         }
         return head;

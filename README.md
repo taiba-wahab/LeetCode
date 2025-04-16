@@ -89,6 +89,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/taiba-wahab/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/taiba-wahab/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -120,6 +121,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
+| [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |

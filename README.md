@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,12 +59,14 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |

@@ -22,6 +22,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -45,6 +46,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -92,6 +94,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
+| [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
@@ -146,6 +149,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0011-container-with-most-water](https://github.com/taiba-wahab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
+| [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |

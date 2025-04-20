@@ -1,27 +1,27 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int [] character_array = new int [26];
-        for(int i = 0; i < s.length(); i++) {
-            character_array[s.charAt(i) - 97]++;
+        int [] freq = new int [26];
+        int size = s.length();
+        char [] answer = new char [size];
+        for(int i = 0; i < size; i++) {
+            freq[s.charAt(i) - 97]++;
         }
-        char [] list = new char [s.length()];
         int low = 0;
-        int high = s.length() - 1;
-        for(int i = 0; i < 26; i++) {
-            while(character_array[i] > 1) {
-                list[low] = (char) (i + 97);
-                list[high] = (char) (i + 97);
+        int high = size - 1;
+        for(int i = 0; i  < 26; i++) {
+            while(freq[i] > 1) {
+                answer[low] = (char) (i + 97);
+                answer[high] = (char) (i + 97);
                 low++;
                 high--;
-                character_array[i] -= 2;
+                freq[i] -= 2;
             }
         }
-        for(int i = 0; i < 26; i++){
-            if(character_array[i] == 1){
-                list[low] = (char) (i + 97);
-                low++;
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] == 1) {
+                answer[low] = (char) (i + 97);
             }
         }
-        return String.valueOf(list);
+        return String.valueOf(answer);
     }
 }

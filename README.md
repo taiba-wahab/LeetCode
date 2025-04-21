@@ -184,6 +184,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -194,4 +195,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

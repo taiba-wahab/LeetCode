@@ -100,6 +100,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -198,6 +199,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Counting Sort

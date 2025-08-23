@@ -28,6 +28,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1580-shuffle-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
@@ -172,6 +173,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -210,4 +212,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->

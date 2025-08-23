@@ -128,6 +128,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
@@ -211,6 +212,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 ## Interactive
 |  |

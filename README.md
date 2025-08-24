@@ -12,6 +12,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +172,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |

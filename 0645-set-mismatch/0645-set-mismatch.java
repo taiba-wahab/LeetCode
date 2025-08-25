@@ -1,30 +1,30 @@
 class Solution {
-    public int[] findErrorNums(int[] nums) {
-        int [] answer = new int [2];
-        int n = nums.length;
-        answer[0] = 0;
-        answer[1] = 0;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i = 0; i < nums.length; i++) {
-            if(map.containsKey(nums[i]) == true) {
-                map.replace(nums[i], map.get(nums[i]) + 1);
+    public static void swap(int[] nums, int correct, int i) {
+        int temp = nums[i];
+        nums[i] = nums[correct];
+        nums[correct] = temp;
+    }
+    public static void cyclicSort(int[] nums) {
+        int i = 0;
+        while(i < nums.length) {
+            int correct = nums[i] - 1;
+            if(nums[correct] != nums[i]) {
+                swap(nums, i, correct);
             }
             else {
-                map.put(nums[i], 1);
+                i++;
             }
         }
-        for(Integer key : map.keySet()) {
-            if(map.get(key) == 2) {
-            answer[0] = key;
-            break;
+    }
+    public int[] findErrorNums(int[] nums) {
+        cyclicSort(nums);
+        int [] ans = new int[2];
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] != (i + 1)) {
+                ans[0] = nums[i];
+                ans[1] = i + 1;
             }
         }
-        for(int i = 1; i <= n; i++) {
-            if(map.containsKey(i) == false) {
-            answer[1] = i;
-            break;
-            }
-        }
-        return answer;
+        return ans;
     }
 }

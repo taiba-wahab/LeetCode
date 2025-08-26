@@ -59,6 +59,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/taiba-wahab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |

@@ -65,6 +65,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +92,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
@@ -166,6 +168,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0058-length-of-last-word](https://github.com/taiba-wahab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |

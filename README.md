@@ -43,6 +43,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1580-shuffle-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
@@ -78,6 +79,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0575-distribute-candies](https://github.com/taiba-wahab/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -103,6 +105,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -271,6 +274,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |

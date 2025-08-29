@@ -4,7 +4,6 @@ class Solution {
         long evenInN = n / 2;
         long oddInM = (m + 1) / 2;
         long evenInM = m / 2;
-
         return oddInN * evenInM + evenInN * oddInM;
     }
 }

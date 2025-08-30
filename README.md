@@ -135,6 +135,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/taiba-wahab/LeetCode/tree/master/0283-move-zeroes) |
@@ -261,6 +262,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/taiba-wahab/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -277,6 +279,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
@@ -293,6 +296,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 ## Interactive
 |  |

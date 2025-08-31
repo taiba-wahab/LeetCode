@@ -16,20 +16,20 @@ class Solution {
                 list.add(curr_end);
                 result.add(list);
                 curr_start = intervals[i][0];
-                curr_end = intervals[i][1];   
+                curr_end = intervals[i][1];
             }
         }
         ArrayList<Integer> last = new ArrayList<>();
         last.add(curr_start);
         last.add(curr_end);
         result.add(last);
-        int[][] arr = new int[result.size()][];
-        for (int i = 0; i < result.size(); i++) {
-            arr[i] = new int[result.get(i).size()];
-            for (int j = 0; j < result.get(i).size(); j++) {
-                arr[i][j] = result.get(i).get(j);
+        int[][] answer = new int[result.size()][];
+        for(int i = 0; i < result.size(); i++) {
+            answer[i] = new int[result.get(i).size()];
+            for(int j = 0; j < result.get(i).size(); j++) {
+                answer[i][j] = result.get(i).get(j);
             }
         }
-        return arr;
+        return answer;
     }
 }

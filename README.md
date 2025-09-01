@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/taiba-wahab/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/taiba-wahab/LeetCode/tree/master/0575-distribute-candies) |
@@ -112,6 +113,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
@@ -329,6 +331,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |

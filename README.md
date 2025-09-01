@@ -26,6 +26,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0275-h-index-ii) |
@@ -79,6 +80,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
@@ -364,4 +366,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

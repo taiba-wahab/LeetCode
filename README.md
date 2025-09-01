@@ -156,6 +156,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
@@ -247,6 +248,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0275-h-index-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/taiba-wahab/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |

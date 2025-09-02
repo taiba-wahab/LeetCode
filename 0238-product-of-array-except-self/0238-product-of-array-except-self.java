@@ -1,38 +1,14 @@
 class Solution {
-    public int product(int[] nums) { 
-        int pro = 1; 
-        for(int i = 0; i < nums.length; i++) { 
-            if(nums[i] == 0) continue; 
-            pro *= nums[i]; 
-        } 
-        return pro; 
-    }
-    public int countZeros(int[] nums) {
-        int counter = 0;
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[i] == 0) counter++;
-        }
-        return counter;
-    }
     public int[] productExceptSelf(int[] nums) {
-        int count = countZeros(nums);
-        int maxPro = product(nums);
         int[] answer = new int[nums.length];
-        for(int i = 0; i < answer.length; i++) {
-            if(count > 1) {
-                answer[i] = 0;
-            }
-            else if(count == 1) {
-                if(nums[i] == 0) {
-                    answer[i] = maxPro;
-                }
-                else {
-                    answer[i] = 0;
-                }
-            }
-            else {
-                answer[i] = maxPro / nums[i];
-            }
+        answer[0] = 1;
+        for(int i = 1; i < nums.length; i++) {
+            answer[i] = answer[i - 1] * nums[i - 1];
+        }
+        int right = 1;
+        for(int i = nums.length - 1; i >= 0 ; i--) {
+            answer[i] *= right;
+            right *= nums[i];
         }
         return answer;
     }

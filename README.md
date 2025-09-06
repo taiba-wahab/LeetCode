@@ -59,6 +59,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
+| [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -235,6 +236,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Enumeration
 |  |

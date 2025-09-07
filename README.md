@@ -96,6 +96,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0525-contiguous-array](https://github.com/taiba-wahab/LeetCode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/taiba-wahab/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/taiba-wahab/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -229,6 +230,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0782-jewels-and-stones](https://github.com/taiba-wahab/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3379-score-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |

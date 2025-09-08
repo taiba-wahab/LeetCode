@@ -180,6 +180,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0013-roman-to-integer](https://github.com/taiba-wahab/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
@@ -205,6 +206,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/taiba-wahab/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
@@ -329,6 +331,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |

@@ -1,22 +1,22 @@
 class Solution {
-    public int getMax(int[] nums, int j, int a, int b) {
-        for(int i = a; i < b; i++) {
-            if(nums[i] > nums[j]) {
-                return nums[i];
-            }
-        }
-        return -1;
-    }
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int[] ans = new int[n];
-        Arrays.fill(ans, -1);
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < nums2.length - 1; j++) {
-                if(nums1[i] == nums2[j]) {
-                    ans[i] = getMax(nums2, j, j + 1, nums2.length);
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> stack = new Stack<>();
+        int[] ans = new int[nums1.length];
+        for(int num : nums2) {
+            while(!stack.empty() && num > stack.peek()) {
+                int top = stack.pop();
+                map.put(top, num);
             }
+            stack.push(num);
+        }
+        while (!stack.isEmpty()) {
+            map.put(stack.pop(), -1);
+        }
+        int i = 0;
+        for(int nums : nums1) {
+            ans[i] = map.get(nums);
+            i++;
         }
         return ans;
     }

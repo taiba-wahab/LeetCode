@@ -71,6 +71,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/taiba-wahab/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/taiba-wahab/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/taiba-wahab/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/taiba-wahab/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -228,6 +229,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/taiba-wahab/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## String
 |  |
 | ------- |

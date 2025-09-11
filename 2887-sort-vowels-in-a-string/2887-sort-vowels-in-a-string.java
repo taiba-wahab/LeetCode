@@ -24,18 +24,18 @@ class Solution {
         }
         Collections.sort(vowelsList);
         Set<Character> vowelSet = new HashSet<>(vowelsList);
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         int idx = 0;
         for(int i = 0; i < n; i++) {
             char ch = s.charAt(i);
             if(vowelSet.contains(ch)) {
-                ans += vowelsList.get(idx);
+                ans.append(vowelsList.get(idx));
                 idx++;
             }
             else {
-                ans += ch;
+                ans.append(ch);
             }
         }
-        return ans;
+        return ans.toString();
     }
 }

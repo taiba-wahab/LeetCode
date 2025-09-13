@@ -76,6 +76,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/taiba-wahab/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/taiba-wahab/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/taiba-wahab/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/taiba-wahab/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -110,6 +111,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

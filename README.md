@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/taiba-wahab/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/taiba-wahab/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |

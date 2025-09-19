@@ -101,6 +101,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/taiba-wahab/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -164,6 +165,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/taiba-wahab/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
@@ -256,6 +258,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/taiba-wahab/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |

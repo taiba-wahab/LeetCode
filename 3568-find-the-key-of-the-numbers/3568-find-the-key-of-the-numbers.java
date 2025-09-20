@@ -8,6 +8,6 @@ class Solution {
             int min = Math.min(a.charAt(i) - '0', Math.min(b.charAt(i) - '0', c.charAt(i) - '0'));
             sb.append(String.valueOf(min));
         }
-        return Integer.valueOf(sb.toString());
+        return Integer.parseInt(sb.toString());
     }
 }

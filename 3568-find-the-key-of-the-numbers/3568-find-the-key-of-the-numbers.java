@@ -29,11 +29,7 @@ class Solution {
         String b = padZeroes(num2);
         String c = padZeroes(num3);
         for(int i = 0; i < 4; i++) {
-            int[] array = new int[3];
-            array[0] = a.charAt(i) - '0';
-            array[1] = b.charAt(i) - '0';
-            array[2] = c.charAt(i) - '0';
-            int min = findMinimum(array);
+            int min = Math.min(a.charAt(i) - '0', Math.min(b.charAt(i) - '0', c.charAt(i) - '0'));
             sb.append(String.valueOf(min));
         }
         return Integer.valueOf(sb.toString());

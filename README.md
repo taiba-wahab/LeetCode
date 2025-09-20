@@ -25,6 +25,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +141,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0147-insertion-sort-list](https://github.com/taiba-wahab/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
@@ -256,6 +258,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/taiba-wahab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
@@ -307,6 +310,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0011-container-with-most-water](https://github.com/taiba-wahab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |

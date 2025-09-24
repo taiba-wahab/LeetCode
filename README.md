@@ -23,6 +23,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
@@ -209,6 +210,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0013-roman-to-integer](https://github.com/taiba-wahab/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -399,6 +401,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |

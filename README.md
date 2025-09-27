@@ -53,6 +53,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/taiba-wahab/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -218,6 +219,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -475,4 +477,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->

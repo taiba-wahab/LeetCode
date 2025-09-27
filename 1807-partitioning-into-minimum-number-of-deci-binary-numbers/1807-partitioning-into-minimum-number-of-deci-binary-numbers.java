@@ -3,9 +3,7 @@ class Solution {
         int maxDigit = 0;
         for(int i = 0; i < n.length(); i++) {
             char ch = n.charAt(i);
-            if(ch - 48 > maxDigit) {
-                maxDigit = ch - 48;
-            }
+            maxDigit = Math.max(ch - 48, maxDigit);
         }
         return maxDigit;
     }

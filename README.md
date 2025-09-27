@@ -97,6 +97,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0013-roman-to-integer](https://github.com/taiba-wahab/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/taiba-wahab/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -190,6 +191,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -372,6 +374,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/taiba-wahab/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |

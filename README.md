@@ -60,6 +60,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
@@ -159,6 +160,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -224,6 +226,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -329,6 +332,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |

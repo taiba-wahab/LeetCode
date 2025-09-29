@@ -73,6 +73,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -287,6 +288,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0782-jewels-and-stones](https://github.com/taiba-wahab/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3379-score-of-a-string) |
@@ -302,6 +304,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Enumeration
 |  |

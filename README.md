@@ -32,6 +32,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/taiba-wahab/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0275-h-index-ii) |
@@ -256,6 +257,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/taiba-wahab/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |

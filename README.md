@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/taiba-wahab/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
@@ -153,6 +154,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
@@ -470,6 +472,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
@@ -492,6 +495,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -504,4 +508,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

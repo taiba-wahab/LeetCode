@@ -254,6 +254,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3568-find-the-key-of-the-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/taiba-wahab/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/taiba-wahab/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -271,6 +272,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/taiba-wahab/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |

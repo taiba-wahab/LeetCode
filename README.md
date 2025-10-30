@@ -261,6 +261,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/taiba-wahab/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/taiba-wahab/LeetCode/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/taiba-wahab/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |

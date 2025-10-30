@@ -240,6 +240,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/taiba-wahab/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -320,6 +321,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |

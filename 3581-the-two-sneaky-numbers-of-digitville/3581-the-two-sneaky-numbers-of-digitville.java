@@ -1,17 +1,18 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int [] answer = new int [2];
-        int c = 0;
-        answer[0] = -1;
-        answer[1] = -1;
-        for(int i = 0; i < nums.length - 1; i++) {
-            for(int j = i + 1; j < nums.length; j++) {
-                if(nums[i] == nums[j]) {
-                    answer[c] = nums[i];
-                    c++;
-                }
+        int[] ans = new int[2];
+        int max = Arrays.stream(nums).max().getAsInt();
+        int[] freq = new int[max + 1];
+        for(int i = 0; i < nums.length; i++) {
+            freq[nums[i]]++;
+        }
+        int k = 0;
+        for(int i = 0; i < freq.length; i++) {
+            if(freq[i] > 1) {
+                ans[k] = i;
+                k++;
             }
         }
-        return answer;
+        return ans;
     }
 }

@@ -230,6 +230,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0043-multiply-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/taiba-wahab/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
@@ -373,6 +374,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/taiba-wahab/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taiba-wahab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -520,6 +522,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/taiba-wahab/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |

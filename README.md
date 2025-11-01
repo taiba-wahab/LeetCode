@@ -91,6 +91,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/taiba-wahab/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/taiba-wahab/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/taiba-wahab/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -132,6 +133,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -420,6 +422,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |

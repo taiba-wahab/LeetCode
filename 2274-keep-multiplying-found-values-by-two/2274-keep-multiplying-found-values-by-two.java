@@ -1,17 +1,11 @@
 class Solution {
-    public int linearSearch(int[] nums, int key) {
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[i] == key) {
-                return i;
-            }
-        }
-        return -1;
-    }
     public int findFinalValue(int[] nums, int original) {
-        int index = linearSearch(nums, original);
-        while(index != -1) {
-            original = nums[index] * 2;
-            index = linearSearch(nums, original);
+        HashSet<Integer> set = new HashSet<>();
+        for(int i = 0; i < nums.length; i++) {
+            set.add(nums[i]);
+        }
+        while(set.contains(original)) {
+            original *= 2;
         }
         return original;
     }

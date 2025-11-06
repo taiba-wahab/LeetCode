@@ -80,6 +80,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -134,6 +135,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/taiba-wahab/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -181,6 +183,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -339,6 +342,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |

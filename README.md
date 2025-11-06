@@ -442,6 +442,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -471,6 +472,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taiba-wahab/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -554,4 +556,5 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

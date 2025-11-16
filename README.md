@@ -62,6 +62,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/taiba-wahab/LeetCode/tree/master/1137-height-checker) |
@@ -133,6 +134,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -367,6 +369,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0238-product-of-array-except-self](https://github.com/taiba-wahab/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/taiba-wahab/LeetCode/tree/master/0525-contiguous-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2714-left-and-right-sum-differences](https://github.com/taiba-wahab/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |

@@ -75,6 +75,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1580-shuffle-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/taiba-wahab/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
@@ -339,6 +340,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/taiba-wahab/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1944-truncate-sentence](https://github.com/taiba-wahab/LeetCode/tree/master/1944-truncate-sentence) |

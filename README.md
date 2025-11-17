@@ -103,6 +103,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/taiba-wahab/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/taiba-wahab/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/taiba-wahab/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |

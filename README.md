@@ -238,6 +238,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/taiba-wahab/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -336,6 +337,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/taiba-wahab/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -501,6 +503,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
+| [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Interactive
 |  |

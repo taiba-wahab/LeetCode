@@ -104,6 +104,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/taiba-wahab/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/taiba-wahab/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |

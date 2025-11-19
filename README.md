@@ -19,6 +19,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0056-merge-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/taiba-wahab/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taiba-wahab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,6 +304,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/taiba-wahab/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/taiba-wahab/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0260-single-number-iii) |
@@ -608,4 +610,8 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/taiba-wahab/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

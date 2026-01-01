@@ -6,9 +6,9 @@ class Solution {
                 digits[i] += 1;
                 return digits;
             }
-            digits[i] = 0;
+            else digits[i] = 0;
         }
-        int[] answer = new int[length + 1];
+        int [] answer = new int[length + 1];
         answer[0] = 1;
         return answer;
     }

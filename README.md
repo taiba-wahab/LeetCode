@@ -57,6 +57,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/taiba-wahab/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0766-toeplitz-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/taiba-wahab/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -486,6 +487,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

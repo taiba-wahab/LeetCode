@@ -1,18 +1,16 @@
 class Solution {
     public int sumDivisors(int num) {
-        int sum = 0;
-        for(int i = 1; i * i < num; i++) {
+        int sum = 1;
+        for(int i = 2; i * i < num; i++) {
             if(num % i == 0) {
-                int d1 = i;
-                System.out.println(d1);
-                int d2 = num / i;
-                System.out.println(d2);
-                sum += d1 + d2;
+                sum += i;
+                if(i != num / i) sum += num / i;
             }
         }
-        return sum - num;
+        return sum;
     }
     public boolean checkPerfectNumber(int num) {
+        if(num == 1) return false;
         int sum = sumDivisors(num);
         return sum == num;
     }

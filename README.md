@@ -15,6 +15,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/taiba-wahab/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
@@ -132,6 +133,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0012-integer-to-roman](https://github.com/taiba-wahab/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/taiba-wahab/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/taiba-wahab/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -191,6 +193,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taiba-wahab/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/taiba-wahab/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
@@ -354,6 +357,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/taiba-wahab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0151-reverse-words-in-a-string) |

@@ -1,27 +1,35 @@
 class Solution {
+    public boolean isAnagram(String s, String t) {
+        int[] freq = new int[26];
+        for(int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i) - 97]++;
+        }
+        for(int i = 0; i < t.length(); i++) {
+            freq[t.charAt(i) - 97]--;
+        }
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] != 0) return false;
+        }
+        return true;
+    }
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> answer = new ArrayList<>();
-        int size = strs.length;
-        HashMap <String, List<String>> anagrams = new HashMap<>();
-        for(int i = 0; i < size; i++) {
-            String currString = strs[i];
-            char [] currArr = currString.toCharArray();
-            Arrays.sort(currArr);
-            String key = new String(currArr);
-            if(anagrams.containsKey(key)) {
-                List<String> keyList = anagrams.get(key);
-                keyList.add(currString);
+        List<List<String>> ans = new ArrayList<>();
+        for(int i = 0; i < strs.length; i++) {
+            String s = strs[i];
+            List<String> temp = new ArrayList<>();
+            if(strs[i] == "") continue;
+            temp.add(s);
+            for(int j= i + 1; j < strs.length; j++) {
+                if(strs[j] == "") continue;
+                String t = strs[j];
+                boolean check = (isAnagram(s, t));
+                if(check) {
+                    temp.add(t);
+                    strs[j] = "";
+                }
             }
-            else {
-                List<String> newKeyList = new ArrayList<>();
-                newKeyList.add(currString);
-                anagrams.put(key, newKeyList);
-            }
+            ans.add(temp);
         }
-        for(String key : anagrams.keySet()) {
-            List<String> list = anagrams.get(key);
-            answer.add(list);
-        }
-        return answer;
+        return ans;    
     }
 }

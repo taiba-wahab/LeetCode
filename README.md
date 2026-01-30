@@ -23,6 +23,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0078-subsets](https://github.com/taiba-wahab/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taiba-wahab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
@@ -195,6 +196,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0018-4sum](https://github.com/taiba-wahab/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/taiba-wahab/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
@@ -253,6 +255,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0027-remove-element](https://github.com/taiba-wahab/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |

@@ -24,10 +24,7 @@ class Solution {
         if(root == null) return true;
         if(root.left == null && root.right == null) return true;
         if(root.left == null || root.right == null) return false;
-        if(root.left.val == root.right.val) {
-            boolean check = compareNodes(root.left, root.right);
-            return check;
-        }
-        return false;
+        boolean check = compareNodes(root.left, root.right);
+        return check;
     }
 }

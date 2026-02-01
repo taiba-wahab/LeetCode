@@ -110,6 +110,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/taiba-wahab/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/taiba-wahab/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/taiba-wahab/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -229,6 +230,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -431,6 +433,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |

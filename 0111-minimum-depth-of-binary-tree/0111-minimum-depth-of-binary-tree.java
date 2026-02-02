@@ -16,10 +16,24 @@
 class Solution {
     public int minDepth(TreeNode root) {
         if(root == null) return 0;
-        int leftDepth = minDepth(root.left);
-        int rightDepth = minDepth(root.right);
-        if(leftDepth == 0 && rightDepth != 0) return rightDepth + 1;
-        else if(leftDepth != 0 && rightDepth == 0) return leftDepth + 1;
-        else return (leftDepth < rightDepth) ? leftDepth + 1 : rightDepth + 1;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        queue.offer(null);
+        int count = 1;
+        while(!queue.isEmpty()) {
+            TreeNode curr = queue.poll();
+            if(curr != null) {
+                if(curr.left == null && curr.right == null) return count;
+                if(curr.left != null) queue.offer(curr.left);
+                if(curr.right != null) queue.offer(curr.right);
+            }
+            else {
+                if(!queue.isEmpty()) {
+                    count++;
+                    queue.offer(null);
+                }
+            }
+        }
+        return count;
     }
 }

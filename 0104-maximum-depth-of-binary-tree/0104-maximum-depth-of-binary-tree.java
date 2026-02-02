@@ -16,8 +16,25 @@
 class Solution {
     public int maxDepth(TreeNode root) {
         if(root == null) return 0;
-        int leftDepth = maxDepth(root.left);
-        int rightDepth = maxDepth(root.right);
-        return (leftDepth > rightDepth) ? leftDepth + 1 : rightDepth + 1;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        int max = 0;
+        TreeNode prev = null;
+        while(!stack.isEmpty()) {
+            TreeNode curr = stack.peek();
+            if(prev == null || prev.left == curr || prev.right == curr) {
+                if(curr.left != null) stack.push(curr.left); 
+                else if(curr.right != null) stack.push(curr.right);
+            } 
+            else if(curr.left == prev) {
+                if(curr.right != null) stack.push(curr.right);
+            }
+            else {
+                stack.pop();
+            }
+            prev = curr;
+            max = Math.max(max, stack.size());
+        }
+        return max;
     }
 }

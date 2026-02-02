@@ -83,6 +83,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/taiba-wahab/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -225,6 +226,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1200-minimum-absolute-difference](https://github.com/taiba-wahab/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/taiba-wahab/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -280,6 +282,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -505,6 +508,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/taiba-wahab/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |

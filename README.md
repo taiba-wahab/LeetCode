@@ -38,6 +38,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/taiba-wahab/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/taiba-wahab/LeetCode/tree/master/0274-h-index) |
@@ -604,6 +605,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
@@ -648,6 +650,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Memoization
 |  |
@@ -672,6 +675,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -729,4 +733,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

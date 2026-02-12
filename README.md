@@ -66,6 +66,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0792-binary-search](https://github.com/taiba-wahab/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0819-most-common-word](https://github.com/taiba-wahab/LeetCode/tree/master/0819-most-common-word) |
+| [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
@@ -165,6 +166,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0782-jewels-and-stones](https://github.com/taiba-wahab/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0819-most-common-word](https://github.com/taiba-wahab/LeetCode/tree/master/0819-most-common-word) |
+| [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -221,6 +223,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/taiba-wahab/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0905-sort-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -487,6 +490,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taiba-wahab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |

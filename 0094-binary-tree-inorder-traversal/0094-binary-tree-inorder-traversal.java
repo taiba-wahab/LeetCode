@@ -13,6 +13,9 @@
  *     }
  * }
  */
+ // MORRIS INORDER TRAVERSAL 
+ // Time Complexity : O(2n) --> as every node is visited twice
+ // Space Complexity : O(1) --> no extra memory required
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         ArrayList<Integer> ans = new ArrayList<>();

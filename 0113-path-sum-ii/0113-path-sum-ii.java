@@ -20,8 +20,6 @@ class Solution {
         targetSum -= root.val;
         if(root.left == null && root.right == null && targetSum == 0) {
             ans.add(new ArrayList<>(temp));
-            temp.remove(temp.size() - 1);
-            return;
         } 
         helper(root.left, targetSum, ans, temp);
         helper(root.right, targetSum, ans, temp);

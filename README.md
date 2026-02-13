@@ -699,6 +699,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -710,6 +711,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0111-minimum-depth-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
@@ -724,6 +726,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |

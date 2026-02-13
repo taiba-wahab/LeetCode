@@ -15,19 +15,35 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         if(root == null) return ans;
         TreeNode curr = root;
-        Stack<TreeNode> stack = new Stack<>();
-        while(!stack.isEmpty() || curr != null) {
-            if(curr != null) {
-                stack.push(curr);
-                curr = curr.left;
-            }
-            else {
-                curr = stack.pop();
+        TreeNode pred = null;
+        while(curr != null) {
+            // if no left
+            if(curr.left == null) {
                 ans.add(curr.val);
                 curr = curr.right;
+            }
+            // if left exists --> find predecessor and make threads to curr
+            else {
+                // find predecessor
+                pred = curr.left; // intially make curr.left as pred of curr
+                while(pred.right != null && pred.right != curr) {
+                    // pred.right != null is for
+                    //checking for the situation that its the first time we are visitng the node not second time       
+                    pred = pred.right;
+                } 
+                if(pred.right == null) {// left has not been visited before
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                else {
+                    // left has been visited 
+                    ans.add(curr.val); // so visit current node
+                    pred.right = null; // dissolve thread
+                    curr = curr.right; // move right
+                }
             }
         }
         return ans;

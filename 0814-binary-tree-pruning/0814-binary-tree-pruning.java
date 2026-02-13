@@ -31,9 +31,6 @@ class Solution {
 
     }
     public TreeNode pruneTree(TreeNode root) {
-        if(dfsPostorder(root)) {
-            return root;
-        }
-        return null;
+        return (dfsPostorder(root) == true) ? root : null;
     }
 }

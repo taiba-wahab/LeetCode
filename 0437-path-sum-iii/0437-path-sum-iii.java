@@ -14,24 +14,18 @@
  * }
  */
 class Solution {
-    int count = 0;
-    public void dfs(TreeNode root, int target, HashMap<Long, Integer> map, long current) {
-        if(root == null) return;
+    public int dfs(TreeNode root, long current, int target, HashMap<Long, Integer> map) {
+        if(root == null) return 0;
         current += root.val;
-        long needed = current - target;
-        if(map.containsKey(needed)) {
-            count += map.get(needed);
-        }
+        int pathsEndingHere = map.getOrDefault(current - target, 0);
         map.put(current, map.getOrDefault(current, 0) + 1);
-        dfs(root.left, target, map, current);
-        dfs(root.right, target, map, current);
+        int total = pathsEndingHere + dfs(root.left, current, target, map) + dfs(root.right, current, target, map);
         map.put(current, map.getOrDefault(current, 0) - 1);
+        return total;
     }
     public int pathSum(TreeNode root, int targetSum) {
         HashMap<Long, Integer> map = new HashMap<>();
         map.put(0L, 1);
-        long current = 0;
-        dfs(root, targetSum, map, current);
-        return count;
+        return dfs(root, 0L, targetSum, map);
     }
 }

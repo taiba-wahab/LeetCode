@@ -25,7 +25,6 @@ class Solution {
     }
     public int pathSum(TreeNode root, int targetSum) {
         int total = 0;
-        long target = (long) targetSum;
         if(root == null) return 0;
         total += validPaths(root, targetSum);
         total += pathSum(root.left, targetSum);

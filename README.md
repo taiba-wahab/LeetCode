@@ -701,6 +701,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0113-path-sum-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -717,6 +718,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0113-path-sum-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
@@ -734,6 +736,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0113-path-sum-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -747,6 +750,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -19,7 +19,16 @@ class Solution {
         if(root == null) return 0;
         int leftSum = dfs(root.left);
         int rightSum = dfs(root.right);
-        int currSum = Math.max(root.val, Math.max((leftSum + rightSum + root.val),Math.max((leftSum + root.val), (rightSum + root.val))));
+        int currSum = 0;
+        if(leftSum > 0 && rightSum > 0) {
+            currSum = leftSum + rightSum + root.val;
+        }
+        else if(leftSum > 0 || rightSum > 0) {
+            currSum = leftSum > 0 ? root.val + leftSum : root.val + rightSum;
+        } 
+        else {
+            currSum = root.val;
+        }
         maxSum = Math.max(maxSum, currSum);
         return Math.max(root.val, (Math.max(leftSum, rightSum) + root.val));
     }

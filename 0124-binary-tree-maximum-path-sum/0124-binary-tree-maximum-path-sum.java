@@ -30,7 +30,7 @@ class Solution {
             currSum = root.val;
         }
         maxSum = Math.max(maxSum, currSum);
-        return Math.max(root.val, (Math.max(leftSum, rightSum) + root.val));
+        return root.val + (Math.max(0, Math.max(leftSum, rightSum)));
     }
     public int maxPathSum(TreeNode root) {
         dfs(root);

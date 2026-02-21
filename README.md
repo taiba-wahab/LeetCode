@@ -385,6 +385,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/taiba-wahab/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/taiba-wahab/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/taiba-wahab/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/taiba-wahab/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/taiba-wahab/LeetCode/tree/master/0344-reverse-string) |
@@ -689,6 +690,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0078-subsets](https://github.com/taiba-wahab/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -706,6 +708,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -726,6 +729,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -747,6 +751,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |

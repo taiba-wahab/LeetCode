@@ -311,6 +311,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/taiba-wahab/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/taiba-wahab/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
@@ -357,6 +358,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/taiba-wahab/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/taiba-wahab/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |

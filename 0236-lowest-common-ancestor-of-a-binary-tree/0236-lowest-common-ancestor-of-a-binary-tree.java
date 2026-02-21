@@ -16,7 +16,7 @@ class Solution {
         boolean currStatus = (root.val == p.val || root.val == q.val) ? true : false;
         if((leftStatus && rightStatus) || (leftStatus && currStatus) || (currStatus && rightStatus)) {
             lca = root;
-            return true;
+            // return true;
         }
         return leftStatus || rightStatus ||  currStatus;
     }

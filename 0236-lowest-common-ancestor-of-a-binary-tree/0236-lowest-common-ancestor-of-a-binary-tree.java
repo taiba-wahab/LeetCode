@@ -13,7 +13,7 @@ class Solution {
         if(root == null) return false;
         boolean leftStatus = dfs(root.left, p, q);
         boolean rightStatus = dfs(root.right, p, q);
-        boolean currStatus = (root.val == p.val || root.val == q.val) ? true : false;
+        boolean currStatus = (root == p || root == q) ? true : false;
         if((leftStatus && rightStatus) || (leftStatus && currStatus) || (currStatus && rightStatus)) {
             lca = root;
             return true;

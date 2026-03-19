@@ -715,6 +715,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -736,6 +737,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -760,6 +762,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

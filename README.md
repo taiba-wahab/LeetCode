@@ -712,6 +712,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -735,6 +736,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -759,6 +761,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -774,6 +777,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0111-minimum-depth-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |

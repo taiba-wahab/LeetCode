@@ -17,10 +17,10 @@ class Solution {
     int moves = 0;
     public int dfs(TreeNode root) {
         if(root == null) return 0;
-        int lc = dfs(root.left);
-        int rc = dfs(root.right);
-        moves += Math.abs(lc) + Math.abs(rc);
-        return (lc + rc + root.val) - 1;
+        int lc = dfs(root.left); //extra coins from left
+        int rc = dfs(root.right); // extra coins from right
+        moves += Math.abs(lc) + Math.abs(rc); // moves at the node
+        return (lc + rc + root.val) - 1; // extra coins
     }
     public int distributeCoins(TreeNode root) {
         dfs(root);

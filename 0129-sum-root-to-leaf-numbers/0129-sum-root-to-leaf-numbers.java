@@ -23,13 +23,12 @@ class Solution {
             if(root.left == null && root.right == null) {
                 String str = sb.toString();
                 sum += Integer.valueOf(str);
-                sb.setLength(len);
             }
             else {
                 dfs(root.left);
-                sb.setLength(len);
                 dfs(root.right);
             }
+            sb.setLength(len - 1);
         }
         return;
     }

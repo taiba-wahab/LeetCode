@@ -20,24 +20,20 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         Stack<List<Integer>> stack = new Stack<>();
         q.offer(root);
-        q.offer(null);
-        List<Integer> curr = new ArrayList<>();
         while(!q.isEmpty()) {
-            TreeNode temp = q.poll();
-            if(temp != null) {
-                curr.add(temp.val);
-                if(temp.left != null) q.offer(temp.left);
-                if(temp.right != null) q.offer(temp.right);
+            List<Integer> currLevel = new ArrayList<>();
+            int levelSize = q.size();
+            for(int i = 0; i < levelSize; i++) {
+                TreeNode node = q.poll();
+                currLevel.add(node.val);
+                if(node.left != null) q.offer(node.left);
+                if(node.right != null) q.offer(node.right);
             }
-            else {
-                List<Integer> copyCurr = new ArrayList<>(curr);
-                stack.push(copyCurr);
-                curr.clear();
-                if(!q.isEmpty()) q.offer(null);
-            }
+            stack.push(currLevel);
         }
         while(!stack.isEmpty()) {
-            ans.add(stack.pop());
+            List<Integer> curr_level = stack.pop();
+            ans.add(curr_level);
         }
         return ans;
     }

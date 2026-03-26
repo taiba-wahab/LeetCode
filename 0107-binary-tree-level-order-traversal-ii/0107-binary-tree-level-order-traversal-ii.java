@@ -18,7 +18,6 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         if(root == null) return ans;
         Queue<TreeNode> q = new LinkedList<>();
-        Stack<List<Integer>> stack = new Stack<>();
         q.offer(root);
         while(!q.isEmpty()) {
             List<Integer> currLevel = new ArrayList<>();
@@ -29,12 +28,9 @@ class Solution {
                 if(node.left != null) q.offer(node.left);
                 if(node.right != null) q.offer(node.right);
             }
-            stack.push(currLevel);
+            ans.add(currLevel);
         }
-        while(!stack.isEmpty()) {
-            List<Integer> curr_level = stack.pop();
-            ans.add(curr_level);
-        }
+        Collections.reverse(ans);
         return ans;
     }
 }

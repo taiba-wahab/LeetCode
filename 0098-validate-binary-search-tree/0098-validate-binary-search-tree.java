@@ -16,8 +16,7 @@
 class Solution {
     public boolean dfs(TreeNode root, long lower, long upper) {
         if(root == null) return true;
-        if(root.val <= lower) return false;
-        if(root.val >= upper) return false;
+        if(root.val <= lower || root.val >= upper) return false;
         return dfs(root.left, lower, root.val) && dfs(root.right, root.val, upper);
     }
     public boolean isValidBST(TreeNode root) {

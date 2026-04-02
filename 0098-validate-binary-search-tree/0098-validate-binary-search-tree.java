@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root, ArrayList<Integer> ans) {
+    public void inorder(TreeNode root, ArrayList<Integer> list) {
         if(root == null) return;
-        inorder(root.left, ans);
-        ans.add(root.val);
-        inorder(root.right, ans);
+        inorder(root.left, list);
+        list.add(root.val);
+        inorder(root.right, list);
     }
     public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> answer = new ArrayList<>();
-        inorder(root, answer);
-        for(int i = 0; i < answer.size() - 1; i++) {
-            if(answer.get(i) >= answer.get(i + 1)) return false;
+        ArrayList<Integer> list = new ArrayList<>();
+        inorder(root, list);
+        for(int i = 0; i < list.size() - 1; i++) {
+            if(list.get(i) >= list.get(i + 1)) return false;
         }
         return true;
     }

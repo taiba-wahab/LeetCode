@@ -14,12 +14,18 @@
  * }
  */
 class Solution {
-    public boolean dfs(TreeNode root, long lower, long upper) {
-        if(root == null) return true;
-        if(root.val <= lower || root.val >= upper) return false;
-        return dfs(root.left, lower, root.val) && dfs(root.right, root.val, upper);
+    public void inorder(TreeNode root, ArrayList<Integer> ans) {
+        if(root == null) return;
+        inorder(root.left, ans);
+        ans.add(root.val);
+        inorder(root.right, ans);
     }
     public boolean isValidBST(TreeNode root) {
-        return dfs(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        ArrayList<Integer> answer = new ArrayList<>();
+        inorder(root, answer);
+        for(int i = 0; i < answer.size() - 1; i++) {
+            if(answer.get(i) >= answer.get(i + 1)) return false;
+        }
+        return true;
     }
 }

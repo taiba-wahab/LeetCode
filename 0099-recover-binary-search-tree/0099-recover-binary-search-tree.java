@@ -38,7 +38,7 @@ class Solution {
         long y = Long.MIN_VALUE;
         int flag = 0;
         for(int i = 0; i < list.size() - 1; i++) {
-            // if(flag == 2) break;
+            if(flag == 2) break;
             if((list.get(i) > list.get(i + 1)) && flag != 1) {
                 x = list.get(i);
                 y = list.get(i + 1);

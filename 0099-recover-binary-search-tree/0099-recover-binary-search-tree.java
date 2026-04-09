@@ -14,6 +14,13 @@
  * }
  */
 class Solution {
+    public void inorder(TreeNode root, ArrayList<Integer> list) {
+        if(root == null) return;
+        inorder(root.left, list);
+        list.add(root.val);
+        inorder(root.right, list);
+    }
+    
     public void dfs(TreeNode root, long x, long y, int count) {
         if(count == 0 || root == null) return;
         if(root.val == x && count != 0) {
@@ -27,12 +34,7 @@ class Solution {
         dfs(root.left, x, y, count);
         dfs(root.right, x, y, count);
     }
-    public void inorder(TreeNode root, ArrayList<Integer> list) {
-        if(root == null) return;
-        inorder(root.left, list);
-        list.add(root.val);
-        inorder(root.right, list);
-    }
+    
     public void recoverTree(TreeNode root) {
         ArrayList<Integer> list = new ArrayList<>();
         inorder(root, list);

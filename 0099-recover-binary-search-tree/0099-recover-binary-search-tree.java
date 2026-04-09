@@ -14,16 +14,18 @@
  * }
  */
 class Solution {
-    public void dfs(TreeNode root, long x, long y) {
-        if(root == null) return;
-        if(root.val == x) {
+    public void dfs(TreeNode root, long x, long y, int count) {
+        if(count == 0 || root == null) return;
+        if(root.val == x && count != 0) {
             root.val = (int)y;
+            count--;
         }
-        else if(root.val == y) {
+        else if(root.val == y && count != 0) {
             root.val = (int)x;
+            count--;
         }
-        dfs(root.left, x, y);
-        dfs(root.right, x, y);
+        dfs(root.left, x, y, count);
+        dfs(root.right, x, y, count);
     }
     public void inorder(TreeNode root, ArrayList<Integer> list) {
         if(root == null) return;
@@ -48,6 +50,6 @@ class Solution {
                 y = list.get(i + 1); 
             }
         }
-        dfs(root, x, y);
+        dfs(root, x, y, 2);
     }
 }

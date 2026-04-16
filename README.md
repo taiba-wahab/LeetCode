@@ -733,6 +733,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -767,6 +768,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -806,6 +808,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |

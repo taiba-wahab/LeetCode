@@ -104,6 +104,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/taiba-wahab/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -290,6 +291,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/taiba-wahab/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/taiba-wahab/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -436,6 +438,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/taiba-wahab/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |

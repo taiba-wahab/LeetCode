@@ -78,6 +78,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -543,6 +544,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0766-toeplitz-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Linked List
@@ -845,6 +847,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0695-max-area-of-island](https://github.com/taiba-wahab/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/taiba-wahab/LeetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |

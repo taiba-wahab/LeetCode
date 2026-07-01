@@ -33,6 +33,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0164-maximum-gap](https://github.com/taiba-wahab/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/taiba-wahab/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -535,6 +536,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/taiba-wahab/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
@@ -759,6 +761,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0144-binary-tree-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/taiba-wahab/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/taiba-wahab/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -831,6 +834,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0112-path-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/taiba-wahab/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/taiba-wahab/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -850,4 +854,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

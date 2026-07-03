@@ -126,6 +126,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/taiba-wahab/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/taiba-wahab/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -547,6 +548,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -632,6 +634,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/taiba-wahab/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
@@ -848,6 +851,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0733-flood-fill](https://github.com/taiba-wahab/LeetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -866,4 +870,12 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/taiba-wahab/LeetCode/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

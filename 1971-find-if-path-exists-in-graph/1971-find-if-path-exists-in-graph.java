@@ -4,8 +4,7 @@ class Solution {
         visited[source] = true;
         for(int neighbour : graph.get(source)) {
             if(!visited[neighbour]) {
-                boolean check = dfs(neighbour, destination, visited, graph);
-                if(check) return true;
+                if(dfs(neighbour, destination, visited, graph)) return true;
             }
         }
         return false;

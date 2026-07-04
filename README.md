@@ -777,6 +777,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0501-find-mode-in-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -846,6 +847,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/taiba-wahab/LeetCode/tree/master/0695-max-area-of-island) |
@@ -871,11 +873,13 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/taiba-wahab/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/taiba-wahab/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path

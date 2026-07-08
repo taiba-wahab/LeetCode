@@ -142,6 +142,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/taiba-wahab/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/taiba-wahab/LeetCode/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/taiba-wahab/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -458,6 +459,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/taiba-wahab/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3811-reverse-degree-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/taiba-wahab/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/taiba-wahab/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Enumeration
 |  |

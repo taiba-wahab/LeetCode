@@ -6,6 +6,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/taiba-wahab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/taiba-wahab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/taiba-wahab/LeetCode/tree/master/0015-3sum) |
@@ -145,6 +146,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/taiba-wahab/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/taiba-wahab/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/taiba-wahab/LeetCode/tree/master/0041-first-missing-positive) |

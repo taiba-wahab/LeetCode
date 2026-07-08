@@ -308,6 +308,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2481-strictly-palindromic-number](https://github.com/taiba-wahab/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3794-reverse-string-prefix](https://github.com/taiba-wahab/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -436,6 +437,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3408-count-the-number-of-special-characters-i](https://github.com/taiba-wahab/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/taiba-wahab/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3794-reverse-string-prefix](https://github.com/taiba-wahab/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

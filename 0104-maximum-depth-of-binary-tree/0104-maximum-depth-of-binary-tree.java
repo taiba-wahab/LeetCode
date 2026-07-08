@@ -16,9 +16,9 @@
 class Solution {
     public int dfs(TreeNode root) {
         if(root == null) return 0;
-        int left = dfs(root.left);
-        int right = dfs(root.right);
-        return (left > right) ? 1 + left : 1 + right;
+        int leftHeight = dfs(root.left);
+        int rightHeight = dfs(root.right);
+        return 1 + Math.max(leftHeight, rightHeight);
     }
     public int maxDepth(TreeNode root) {
         int height = dfs(root);

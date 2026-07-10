@@ -21,7 +21,6 @@ class Solution {
         return 1 + Math.max(leftHeight, rightHeight);
     }
     public int maxDepth(TreeNode root) {
-        int height = dfs(root);
-        return height;
+        return dfs(root);
     }
 }

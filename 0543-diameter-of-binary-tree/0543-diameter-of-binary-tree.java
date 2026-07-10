@@ -17,11 +17,11 @@ class Solution {
     int maxDia = 0;
     public int dfs(TreeNode root) {
         if(root == null) return 0;
-        int leftPath = dfs(root.left);
-        int rightPath = dfs(root.right);
-        int currDia = leftPath + rightPath;
-        maxDia = Math.max(maxDia, currDia);
-        return (Math.max(leftPath, rightPath) + 1);
+        int left = dfs(root.left);
+        int right = dfs(root.right);
+        int currDia = left + right;
+        maxDia = Math.max(currDia, maxDia);
+        return Math.max(left, right) + 1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
         dfs(root);

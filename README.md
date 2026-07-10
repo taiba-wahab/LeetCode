@@ -198,6 +198,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/taiba-wahab/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/taiba-wahab/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -363,6 +364,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/taiba-wahab/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/taiba-wahab/LeetCode/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/taiba-wahab/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/taiba-wahab/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |

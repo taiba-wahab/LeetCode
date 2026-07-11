@@ -19,8 +19,8 @@ class Solution {
         if(root == null) {
             return 0;
         }
-        int leftPath = Math.max(0, maxPath(root.left));
-        int rightPath = Math.max(0, maxPath(root.right));
+        int leftPath = Math.max(0, maxPath(root.left)); //ignoring negative path sums
+        int rightPath = Math.max(0, maxPath(root.right)); //ignoring negative path sums
         max = Math.max(leftPath + rightPath + root.val, max);
         return root.val + Math.max(leftPath, rightPath);
     }

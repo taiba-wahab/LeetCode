@@ -91,6 +91,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1207-unique-number-of-occurrences](https://github.com/taiba-wahab/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -184,6 +185,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/taiba-wahab/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -243,6 +245,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1200-minimum-absolute-difference](https://github.com/taiba-wahab/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/taiba-wahab/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |

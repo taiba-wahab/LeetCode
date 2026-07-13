@@ -23,9 +23,9 @@ class Solution {
             int levelSize = q.size();
             for(int i = 0; i < levelSize; i++) {
                 TreeNode node = q.poll();
-                if(node.left != null) q.offer(node.left);
                 if(node.right != null) q.offer(node.right);
-                if(i == levelSize - 1) ans.add(node.val);
+                if(node.left != null) q.offer(node.left);
+                if(i == 0) ans.add(node.val);
             }
         }
         return ans;

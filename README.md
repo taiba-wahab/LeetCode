@@ -18,6 +18,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0041-first-missing-positive](https://github.com/taiba-wahab/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/taiba-wahab/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/taiba-wahab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/taiba-wahab/LeetCode/tree/master/0066-plus-one) |
@@ -206,6 +207,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/taiba-wahab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/taiba-wahab/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -514,6 +516,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taiba-wahab/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/taiba-wahab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/taiba-wahab/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taiba-wahab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |

@@ -18,7 +18,7 @@ class Solution {
         if(root == null) return 0;
         int leftCount = dfs(root.left);
         int rightCount = dfs(root.right);
-        return (leftCount + rightCount + 1);
+        return leftCount + rightCount + 1;
     }
     public int countNodes(TreeNode root) {
         int answer = dfs(root);

@@ -577,6 +577,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/taiba-wahab/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/taiba-wahab/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -601,6 +602,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0203-remove-linked-list-elements) |

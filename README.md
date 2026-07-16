@@ -576,6 +576,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/taiba-wahab/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -602,6 +603,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/taiba-wahab/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/taiba-wahab/LeetCode/tree/master/0143-reorder-list) |

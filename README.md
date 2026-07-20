@@ -91,6 +91,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1200-minimum-absolute-difference](https://github.com/taiba-wahab/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/taiba-wahab/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/taiba-wahab/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/taiba-wahab/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -461,6 +462,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/taiba-wahab/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -571,6 +573,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/taiba-wahab/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |

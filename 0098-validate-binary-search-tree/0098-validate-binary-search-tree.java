@@ -14,16 +14,12 @@
  * }
  */
 class Solution {
-    long prev = Long.MIN_VALUE;
-    public boolean dfs(TreeNode root) {
+    public boolean checkValidity(TreeNode root, long min, long max) {
         if(root == null) return true;
-        if(!dfs(root.left)) return false;
-        if(prev >= root.val) return false;
-        prev = root.val;
-        return dfs(root.right);
-        
+        if(root. val <= min || root.val >= max) return false;
+        return checkValidity(root.left, min, root.val) && checkValidity(root.right, root.val, max);
     }
     public boolean isValidBST(TreeNode root) {
-        return dfs(root);
+        return checkValidity(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 }

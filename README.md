@@ -782,6 +782,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/taiba-wahab/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -879,6 +880,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/taiba-wahab/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/taiba-wahab/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -933,6 +935,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0098-validate-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |

@@ -10,8 +10,8 @@ class Solution {
             if(node == destination) return true;
             for(int neighbour : graph.get(node)) {
                 if(!visited[neighbour]) {
-                    q.offer(neighbour);
                     visited[neighbour] = true;
+                    q.offer(neighbour);
                 }
             }
         }

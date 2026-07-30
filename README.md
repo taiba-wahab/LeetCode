@@ -85,6 +85,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/taiba-wahab/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -652,6 +653,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Interactive
@@ -729,6 +731,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taiba-wahab/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
 |  |
 | ------- |
@@ -799,6 +802,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -902,6 +906,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -951,6 +956,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Queue
 |  |
 | ------- |

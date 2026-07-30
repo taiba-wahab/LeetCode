@@ -800,6 +800,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -848,6 +849,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -901,6 +903,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -932,6 +935,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |

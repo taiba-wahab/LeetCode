@@ -365,6 +365,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2556-convert-the-temperature](https://github.com/taiba-wahab/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/taiba-wahab/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -452,6 +453,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2235-capitalize-the-title](https://github.com/taiba-wahab/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/taiba-wahab/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/taiba-wahab/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -527,6 +529,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |

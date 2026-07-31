@@ -201,6 +201,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/taiba-wahab/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -269,6 +270,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -283,6 +285,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -454,6 +457,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2365-percentage-of-letter-in-string](https://github.com/taiba-wahab/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/taiba-wahab/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -530,6 +534,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

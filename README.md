@@ -225,6 +225,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0215-kth-largest-element-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -533,6 +534,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0759-set-intersection-size-at-least-two](https://github.com/taiba-wahab/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -821,6 +823,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/taiba-wahab/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -871,6 +874,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/taiba-wahab/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -928,6 +932,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/taiba-wahab/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/taiba-wahab/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/taiba-wahab/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -978,6 +983,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/taiba-wahab/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Queue
 |  |
 | ------- |

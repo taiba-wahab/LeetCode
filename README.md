@@ -370,6 +370,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/taiba-wahab/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -484,6 +485,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/taiba-wahab/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -721,6 +723,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |

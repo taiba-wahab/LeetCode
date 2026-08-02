@@ -78,6 +78,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -356,6 +357,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/taiba-wahab/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/taiba-wahab/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -556,6 +558,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
+| [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/taiba-wahab/LeetCode/tree/master/1013-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -732,6 +735,7 @@ This repository contains solutions to various LeetCode problems in java.
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3462-vowels-game-in-a-string) |

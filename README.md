@@ -678,6 +678,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/taiba-wahab/LeetCode/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -829,6 +830,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -885,6 +887,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0733-flood-fill](https://github.com/taiba-wahab/LeetCode/tree/master/0733-flood-fill) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/taiba-wahab/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -945,6 +948,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/taiba-wahab/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -1007,6 +1011,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/taiba-wahab/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |

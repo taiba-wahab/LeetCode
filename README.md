@@ -150,6 +150,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/taiba-wahab/LeetCode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/taiba-wahab/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/taiba-wahab/LeetCode/tree/master/4058-compute-alternating-sum) |
@@ -213,6 +214,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/taiba-wahab/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/taiba-wahab/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/taiba-wahab/LeetCode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/taiba-wahab/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/taiba-wahab/LeetCode/tree/master/3945-digit-frequency-score) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/taiba-wahab/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -279,6 +281,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/taiba-wahab/LeetCode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/taiba-wahab/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting

@@ -13,6 +13,10 @@
  *     }
  * }
  */
+ // perform an inorder traversal of tree which gives nodes in increasing order 
+ // store the nodes in a list during the traversal
+ // reconstruct a new tree using the nodes from the list, where each node only has right child
+// time complexity is O(n)
 class Solution {
     TreeNode head = null, prev = null;
     public void inorder(TreeNode root) {

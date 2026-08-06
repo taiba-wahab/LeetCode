@@ -386,6 +386,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/taiba-wahab/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/taiba-wahab/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/taiba-wahab/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/taiba-wahab/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -511,6 +512,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/taiba-wahab/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/taiba-wahab/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |

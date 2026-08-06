@@ -7,11 +7,12 @@ class Solution {
                 stack.push(ch);
             }
             else {
-                if(stack.empty()) return false;
+                if(stack.isEmpty()) return false;
                 char ch1 = stack.pop();
-                if(!((ch1 == '(' && ch == ')') || (ch1 == '{' && ch == '}') || (ch1 == '[' && ch == ']'))) return false;
+                if(!(ch1 == '(' && ch == ')' || ch1 == '{' && ch == '}' || ch1 == '[' && ch == ']'))
+                    return false;
             }
         }
-        return stack.empty();
+        return stack.isEmpty();
     }
 }

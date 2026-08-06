@@ -17,10 +17,10 @@ class Solution {
     int sum = 0;
     public int sumOfNodes(TreeNode root) {
         if(root == null) return 0;
-        int leftSum = sumOfNodes(root.left);
-        int rightSum = sumOfNodes(root.right);
-        sum += Math.abs(leftSum - rightSum);
-        return leftSum + rightSum + root.val;
+        int left = sumOfNodes(root.left);
+        int right = sumOfNodes(root.right);
+        sum += Math.abs(left - right);
+        return left + right + root.val;
     }
     public int findTilt(TreeNode root) {
         sumOfNodes(root);

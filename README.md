@@ -1044,4 +1044,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/taiba-wahab/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -59,6 +59,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/taiba-wahab/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/taiba-wahab/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/taiba-wahab/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -681,6 +682,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/taiba-wahab/LeetCode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -764,6 +766,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taiba-wahab/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/taiba-wahab/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry

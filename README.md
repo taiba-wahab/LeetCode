@@ -121,6 +121,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/taiba-wahab/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/taiba-wahab/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/taiba-wahab/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/taiba-wahab/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/taiba-wahab/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -693,6 +694,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0897-increasing-order-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/taiba-wahab/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/taiba-wahab/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Interactive
@@ -777,6 +779,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0739-daily-temperatures](https://github.com/taiba-wahab/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/taiba-wahab/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/taiba-wahab/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Geometry
 |  |
 | ------- |

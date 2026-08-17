@@ -453,6 +453,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0345-reverse-vowels-of-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/taiba-wahab/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/taiba-wahab/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -544,6 +545,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0011-container-with-most-water](https://github.com/taiba-wahab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/taiba-wahab/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/taiba-wahab/LeetCode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/taiba-wahab/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/taiba-wahab/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -689,6 +691,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0225-implement-stack-using-queues](https://github.com/taiba-wahab/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/taiba-wahab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/taiba-wahab/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/taiba-wahab/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/taiba-wahab/LeetCode/tree/master/0682-baseball-game) |
@@ -777,6 +780,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/taiba-wahab/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/taiba-wahab/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taiba-wahab/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/taiba-wahab/LeetCode/tree/master/0739-daily-temperatures) |

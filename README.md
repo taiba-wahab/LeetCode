@@ -359,6 +359,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/taiba-wahab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/taiba-wahab/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/taiba-wahab/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/taiba-wahab/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/taiba-wahab/LeetCode/tree/master/0507-perfect-number) |
@@ -754,11 +755,13 @@ This repository contains solutions to various LeetCode problems in java.
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/taiba-wahab/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0909-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -1081,4 +1084,16 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/taiba-wahab/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

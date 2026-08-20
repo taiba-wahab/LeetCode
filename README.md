@@ -142,6 +142,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2714-left-and-right-sum-differences](https://github.com/taiba-wahab/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/taiba-wahab/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/taiba-wahab/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/taiba-wahab/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/taiba-wahab/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/taiba-wahab/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -515,6 +516,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/taiba-wahab/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |

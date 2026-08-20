@@ -110,6 +110,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/taiba-wahab/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/taiba-wahab/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/taiba-wahab/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -208,6 +209,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/taiba-wahab/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/taiba-wahab/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/taiba-wahab/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -426,6 +428,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0645-set-mismatch](https://github.com/taiba-wahab/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/taiba-wahab/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/taiba-wahab/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taiba-wahab/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -561,6 +564,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/taiba-wahab/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/taiba-wahab/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/taiba-wahab/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/taiba-wahab/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |

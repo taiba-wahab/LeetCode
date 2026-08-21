@@ -5,16 +5,13 @@ class Solution {
         int left = 0, right = 0, len = 0;
         HashSet<Character> set = new HashSet<>();
         while(right < s.length()) {
-            if(!set.contains(s.charAt(right))) {
-                len = right - left + 1;
-                maxLen = Math.max(len, maxLen);
-                set.add(s.charAt(right));
-                right++;
-            }
-            else {
+            while(set.contains(s.charAt(right))) {
                 set.remove(s.charAt(left));
                 left++;
             }
+            maxLen = Math.max(maxLen, right - left + 1);
+            set.add(s.charAt(right));
+            right++;
         }
         return maxLen;
     }

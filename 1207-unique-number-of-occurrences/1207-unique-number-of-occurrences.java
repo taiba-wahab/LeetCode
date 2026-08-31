@@ -1,22 +1,15 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        HashMap<Integer, Integer> freqMap = new HashMap<>();
-        for(int num : arr) {
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i < arr.length; i++) {
+            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
         }
-        int max = 0;
-        for(int key : freqMap.keySet()) {
-            if(freqMap.get(key) > max) {
-                max = freqMap.get(key);
-            }
+        HashMap<Integer, Integer> mapOfMap = new HashMap<>();
+        for(int key : map.keySet()) {
+            mapOfMap.put(map.get(key), mapOfMap.getOrDefault(map.get(key), 0) + 1);
         }
-        int [] freq = new int[max + 1];
-        for(int key : freqMap.keySet()) {
-            int frequency = freqMap.get(key);
-            freq[frequency]++;
-        }
-        for(int i = 0; i < freq.length; i++) {
-            if(freq[i] > 1) return false;
+        for(int num : mapOfMap.keySet()) {
+            if(mapOfMap.get(num) > 1) return false;
         }
         return true;
     }

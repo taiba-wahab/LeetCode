@@ -132,6 +132,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/taiba-wahab/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/taiba-wahab/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -217,6 +218,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/taiba-wahab/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/taiba-wahab/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -292,6 +294,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1961-maximum-ice-cream-bars](https://github.com/taiba-wahab/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/taiba-wahab/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/taiba-wahab/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -311,6 +314,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3778-transform-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/3778-transform-array-by-parity) |

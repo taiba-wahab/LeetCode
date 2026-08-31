@@ -88,6 +88,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0861-flipping-an-image](https://github.com/taiba-wahab/LeetCode/tree/master/0861-flipping-an-image) |
 | [0877-stone-game](https://github.com/taiba-wahab/LeetCode/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/taiba-wahab/LeetCode/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/taiba-wahab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/taiba-wahab/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/taiba-wahab/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/taiba-wahab/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -206,6 +207,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0797-rabbits-in-forest](https://github.com/taiba-wahab/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0819-most-common-word](https://github.com/taiba-wahab/LeetCode/tree/master/0819-most-common-word) |
 | [0823-binary-trees-with-factors](https://github.com/taiba-wahab/LeetCode/tree/master/0823-binary-trees-with-factors) |
+| [0904-fruit-into-baskets](https://github.com/taiba-wahab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -805,6 +807,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/taiba-wahab/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0904-fruit-into-baskets](https://github.com/taiba-wahab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Memoization
 |  |

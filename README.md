@@ -197,6 +197,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0347-top-k-frequent-elements](https://github.com/taiba-wahab/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/taiba-wahab/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -484,6 +485,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0402-remove-k-digits](https://github.com/taiba-wahab/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/taiba-wahab/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/taiba-wahab/LeetCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/taiba-wahab/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/taiba-wahab/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/taiba-wahab/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/taiba-wahab/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -814,6 +816,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0220-contains-duplicate-iii](https://github.com/taiba-wahab/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/taiba-wahab/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/taiba-wahab/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/taiba-wahab/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/taiba-wahab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/taiba-wahab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |

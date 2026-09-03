@@ -7,10 +7,8 @@ class Solution {
                 pro /= nums[left];
                 left++;
             }
-            if(pro < k) {
-                count += right - left + 1;
-                right++;
-            }
+            count += right - left + 1;
+            right++;
         }
         return count;
     }

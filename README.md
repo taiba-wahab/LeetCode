@@ -124,6 +124,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/taiba-wahab/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/taiba-wahab/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1839-decode-xored-array](https://github.com/taiba-wahab/LeetCode/tree/master/1839-decode-xored-array) |
 | [1944-truncate-sentence](https://github.com/taiba-wahab/LeetCode/tree/master/1944-truncate-sentence) |
@@ -224,6 +225,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1386-cinema-seat-allocation](https://github.com/taiba-wahab/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/taiba-wahab/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/taiba-wahab/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -322,6 +324,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/taiba-wahab/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/taiba-wahab/LeetCode/tree/master/1983-maximum-population-year) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/taiba-wahab/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2308-divide-array-into-equal-pairs](https://github.com/taiba-wahab/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -404,6 +407,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/taiba-wahab/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/taiba-wahab/LeetCode/tree/master/1642-water-bottles) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/taiba-wahab/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/taiba-wahab/LeetCode/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |

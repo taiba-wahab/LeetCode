@@ -518,6 +518,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/taiba-wahab/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/taiba-wahab/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/taiba-wahab/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taiba-wahab/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -548,6 +549,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/taiba-wahab/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/taiba-wahab/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/taiba-wahab/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/taiba-wahab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/taiba-wahab/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-water-bottles-ii](https://github.com/taiba-wahab/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -762,6 +764,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [2104-sum-of-subarray-ranges](https://github.com/taiba-wahab/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/taiba-wahab/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2390-removing-stars-from-a-string](https://github.com/taiba-wahab/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
 |  |
 | ------- |

@@ -98,6 +98,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0948-sort-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/taiba-wahab/LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/taiba-wahab/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/taiba-wahab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taiba-wahab/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -220,6 +221,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0920-uncommon-words-from-two-sentences](https://github.com/taiba-wahab/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/taiba-wahab/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/taiba-wahab/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/taiba-wahab/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -1144,6 +1146,7 @@ This repository contains solutions to various LeetCode problems in java.
 | ------- |
 | [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/taiba-wahab/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/taiba-wahab/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/taiba-wahab/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/taiba-wahab/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taiba-wahab/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |

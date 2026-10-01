@@ -1,25 +1,17 @@
 class Solution {
-    public boolean bfs(int source, int destination, boolean[] visited, List<List<Integer>> graph) {
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(source);
-        visited[source] = true;
+    public boolean dfs(ArrayList<ArrayList<Integer>> graph, boolean[] visited, int source, int destination) {
         if(source == destination) return true;
-        while(!q.isEmpty()) {
-            int node = q.poll();
-            visited[node] = true;
-            if(node == destination) return true;
-            for(int neighbour : graph.get(node)) {
-                if(!visited[neighbour]) {
-                    visited[neighbour] = true;
-                    q.offer(neighbour);
-                }
+        visited[source] = true;
+        for(int neighbour : graph.get(source)) {
+            if(!visited[neighbour]) {
+                boolean check = dfs(graph, visited, neighbour, destination);
+                if(check) return true;
             }
         }
         return false;
     }
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        // BUILD ADJACENCY LIST
-        List<List<Integer>> graph = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
         for(int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
         }
@@ -29,8 +21,7 @@ class Solution {
             graph.get(u).add(v);
             graph.get(v).add(u);
         }
-        // MAKE VISITED ARRAY
         boolean[] visited = new boolean[n];
-        return bfs(source, destination, visited, graph);
+        return dfs(graph, visited, source, destination);
     }
 }

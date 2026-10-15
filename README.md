@@ -224,6 +224,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0997-find-the-town-judge](https://github.com/taiba-wahab/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/taiba-wahab/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/taiba-wahab/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/taiba-wahab/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/taiba-wahab/LeetCode/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/taiba-wahab/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -701,6 +702,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0237-delete-node-in-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/taiba-wahab/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/taiba-wahab/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |

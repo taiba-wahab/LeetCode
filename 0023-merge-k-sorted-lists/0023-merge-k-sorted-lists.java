@@ -9,27 +9,29 @@
  * }
  */
 class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if(l1 == null) return l2;
+        if(l2 == null) return l1;
+        if(l1.val <= l2.val) {
+            l1.next = mergeTwoLists(l1.next, l2);
+            return l1;
+        }
+        else {
+            l2.next = mergeTwoLists(l2.next, l1);
+            return l2;
+        }
+    }
+    public ListNode separator(int s, int e, ListNode[] lists) {
+        if(s > e) return null;
+        if(s == e) return lists[s];
+        int mid = s + ( e - s) / 2;
+        ListNode l1 = separator(s, mid, lists);
+        ListNode l2 = separator(mid + 1, e, lists);
+        return mergeTwoLists(l1, l2);
+    }
     public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i = 0; i < lists.length; i++) {
-            ListNode curr = lists[i];
-            while(curr != null) {
-                list.add(curr.val);
-                curr = curr.next;
-            }
-        }
-        int [] array = new int[list.size()];
-        for(int i = 0; i < list.size(); i++) {
-            array[i] = list.get(i);
-        }
-        Arrays.sort(array);
-        ListNode dummy = new ListNode(0);
-        ListNode result = dummy;
-        for(int i = 0; i < array.length; i++) {
-            ListNode node = new ListNode(array[i]);
-            result.next = node;
-            result = result.next;
-        }
-        return dummy.next;
+        int n = lists.length;
+        if(n == 0) return null;
+        return separator(0, n - 1, lists);
     }
 }

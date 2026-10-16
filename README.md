@@ -1188,4 +1188,8 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/taiba-wahab/LeetCode/tree/master/0901-online-stock-span) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/taiba-wahab/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

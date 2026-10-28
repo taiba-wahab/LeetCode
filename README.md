@@ -931,6 +931,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -989,6 +990,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1055,6 +1057,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0623-add-one-row-to-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1098,6 +1101,7 @@ This repository contains solutions to various LeetCode problems in java.
 | [0513-find-bottom-left-tree-value](https://github.com/taiba-wahab/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/taiba-wahab/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/taiba-wahab/LeetCode/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taiba-wahab/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |

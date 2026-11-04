@@ -1176,6 +1176,7 @@ This repository contains solutions to various LeetCode problems in java.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/taiba-wahab/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/taiba-wahab/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/taiba-wahab/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Minimax

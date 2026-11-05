@@ -17,7 +17,7 @@ class Solution {
             } 
             st.push(num.charAt(i));
         }
-        while(k > 0) {
+        while(k > 0) { 
             st.pop();
             k--;
         }
